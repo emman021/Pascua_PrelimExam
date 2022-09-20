@@ -1,0 +1,4 @@
+[ubuntu]
+192.168.56.108 pip3=python3-pip python=python3 javaopenjdk=openjdk-8-jdk
+[CentOS]
+192.168.56.111 pip3=python3-pip python=python3 javaopenjdk=java-1.8.0-openjdk
